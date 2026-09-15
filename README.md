@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Onyx%20Developer&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Shipping%20products%20end-to-end&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Seto%20Yoki&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Shipping%20products%20end-to-end&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -31,7 +31,7 @@
 &nbsp;&nbsp;🎓 &nbsp; M.Eng. in Computer Science, **The University of Tokyo**<br/>
 &nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri<br/>
 &nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color<br/>
-&nbsp;&nbsp;📫 &nbsp; Reach me at **[jackdev0322@gmail.com](mailto:jackdev0322@gmail.com)**
+&nbsp;&nbsp;📫 &nbsp; Reach me at **[setoyoki0221@gmail.com](mailto:setoyoki0221@gmail.com)**
 
 <br clear="right"/>
 
