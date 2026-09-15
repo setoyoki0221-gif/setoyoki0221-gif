@@ -46,16 +46,13 @@
 
   <br/><br/>
 
-  <a href="https://onyx.name89maggiotht.workers.dev/">
+  <a href="https://portfolio-nkai.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1B4B75?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
   </a>&nbsp;
-  <a href="https://jp.linkedin.com/in/masaki-fukunishi">
-    <img src="https://img.shields.io/badge/LinkedIn-B87A3D?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:masakifukunishi2000@outlook.com">
+  <a href="mailto:setoyoki0221@outlook.com">
     <img src="https://img.shields.io/badge/Email-9A5555?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
   </a>&nbsp;
-  <a href="https://github.com/onyx766">
+  <a href="https://github.com/setoyoki0221-gif">
     <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
   </a>
 
