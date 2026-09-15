@@ -142,23 +142,6 @@
   <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
 </div>
 
-<!-- ─── STATS ─────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <sub><b>· &nbsp; S T A T S &nbsp; ·</b></sub>
-
-  <br/><br/>
-
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=onyx766&bg_color=FAFAFA&color=1B4B75&line=B87A3D&point=9A5555&area=true&area_color=1B4B75&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
-
-  <br/><br/>
-
-  <img height="170" src="https://streak-stats.demolab.com?user=onyx766&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=1B4B75&fire=B87A3D&currStreakLabel=1B4B75&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
-
-</div>
-
-<br/>
-
 <!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d4a2a,25:b87a3d,50:9a5555,75:546988,100:1b4b75&height=120&section=footer&animation=fadeIn" width="100%"/>
