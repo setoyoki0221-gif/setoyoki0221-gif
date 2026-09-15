@@ -1,12 +1,167 @@
-<!-- HEADER WITH TYPING EFFECT -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-</p>
+<!-- ─────────────────────────────────────────────────────────────────────── -->
+<!--  Painterly profile README — watercolor palette from Naro-portfolio    -->
+<!-- ─────────────────────────────────────────────────────────────────────── -->
 
-🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,golang,cpp,solidity,nodejs,python,java,react,nextjs,vue,laravel,tailwind,sass,materialui,typescript,flutter,mysql,postgresql,sqlite,mongodb,graphql,supabase,firebase,docker,aws,vercel,github,gitlab" />
-</p>
+<div align="center">
 
-⚡ Magic Quote
-<p align="center"><i>"Don’t just code it. Craft it."</i></p> <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61D6,8E2DE2&height=100&section=footer"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Onyx%20Developer&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Shipping%20products%20end-to-end&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=B87A3D&center=true&vCenter=true&width=640&lines=Building+with+AI+agents;Shipping+full-stack+products;Building+what+couldn%27t+exist+last+year;Integrating+tools+end-to-end;Chasing+the+bleeding+edge)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<!-- ─── ABOUT ─────────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; A B O U T &nbsp; ·</b></sub>
+</div>
+
+### &nbsp;&nbsp;The short version
+
+<img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
+
+&nbsp;&nbsp;Full-stack AI engineer wiring advanced models into real, operational<br/>
+&nbsp;&nbsp;systems — API surfaces, complex state, and the frontend craft that<br/>
+&nbsp;&nbsp;makes it all feel human.
+
+&nbsp;&nbsp;🎓 &nbsp; M.Eng. in Computer Science, **The University of Tokyo**<br/>
+&nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri<br/>
+&nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color<br/>
+&nbsp;&nbsp;📫 &nbsp; Reach me at **[jackdev0322@gmail.com](mailto:jackdev0322@gmail.com)**
+
+<br clear="right"/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── FIND ME ───────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <a href="https://onyx.name89maggiotht.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-1B4B75?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://jp.linkedin.com/in/masaki-fukunishi">
+    <img src="https://img.shields.io/badge/LinkedIn-B87A3D?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:masakifukunishi2000@outlook.com">
+    <img src="https://img.shields.io/badge/Email-9A5555?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/onyx766">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture>
+<!-- ─── TOOLKIT ───────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
+
+  <br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=light" alt="frontend"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,rust,fastapi,tauri,sqlite,anaconda&theme=light" alt="backend"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,solidity,php,atom,laravel&theme=light" alt="infra + blockchain"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,unity,godot,blender,postgresql,mongodb,redis,nginx&theme=light" alt="game + database"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,redux,graphql,apollo,jest,cypress&theme=light" alt="devops + testing"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=babel,webpack,cpp,go,swift,kotlin,dart,flutter&theme=light" alt="tools + mobile"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,tensorflow,pytorch,opencv,raspberrypi,arduino&theme=light" alt="ai + iot"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── FEATURED ──────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; F E A T U R E D &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Project</th>
+        <th align="center">Stack</th>
+        <th align="center">Live</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b><a href="https://portfolio-nkai.vercel.app/">Portfolio</a></b><br/><sub>the one you're reading about</sub></td>
+        <td align="center">React · Vite · Tailwind</td>
+        <td align="center"><a href="https://portfolio-nkai.vercel.app/">site →</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── STATS ─────────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; S T A T S &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=onyx766&bg_color=FAFAFA&color=1B4B75&line=B87A3D&point=9A5555&area=true&area_color=1B4B75&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+
+  <br/><br/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=onyx766&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=1B4B75&fire=B87A3D&currStreakLabel=1B4B75&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
+
+</div>
+
+<br/>
+
+<!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d4a2a,25:b87a3d,50:9a5555,75:546988,100:1b4b75&height=120&section=footer&animation=fadeIn" width="100%"/>
